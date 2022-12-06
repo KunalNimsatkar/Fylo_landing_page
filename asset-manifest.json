@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fylo_landing_page/static/css/main.a1ae929a.css",
+    "main.css": "/Fylo_landing_page/static/css/main.632270f3.css",
     "main.js": "/Fylo_landing_page/static/js/main.e3dfcdd8.js",
     "static/media/illustration-intro.png": "/Fylo_landing_page/static/media/illustration-intro.c20d85255009f195b4a6.png",
     "static/media/illustration-stay-productive.png": "/Fylo_landing_page/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
@@ -11,11 +11,11 @@
     "static/media/icon-security.svg": "/Fylo_landing_page/static/media/icon-security.b6a932b6269cf10d3339e0a3d22c8b4e.svg",
     "static/media/bg-curvy-desktop.svg": "/Fylo_landing_page/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d8cf1140c09e2.svg",
     "index.html": "/Fylo_landing_page/index.html",
-    "main.a1ae929a.css.map": "/Fylo_landing_page/static/css/main.a1ae929a.css.map",
+    "main.632270f3.css.map": "/Fylo_landing_page/static/css/main.632270f3.css.map",
     "main.e3dfcdd8.js.map": "/Fylo_landing_page/static/js/main.e3dfcdd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1ae929a.css",
+    "static/css/main.632270f3.css",
     "static/js/main.e3dfcdd8.js"
   ]
 }
